@@ -1,326 +1,179 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:0D1117&height=120&section=header&animation=fadeIn" width="100%" />
+
+</div>
 
 <div align="center">
-  
-```ascii
-   ╔══════════════════════════════════════════════════════════════════╗
-   ║  🩺 ABDULLAH HISHAM - Medical Student & Full-Stack Developer 💻  ║
-   ║                                                                  ║
-   ║     ┌─────────────┐    ┌─────────────┐    ┌─────────────┐      ║
-   ║     │  🧬 MEDICINE │────│  💡 INNOVATION │────│  🚀 TECHNOLOGY │      ║
-   ║     └─────────────┘    └─────────────┘    └─────────────┘      ║
-   ╚══════════════════════════════════════════════════════════════════╝
-```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Medical+Student+%7C+Full-Stack+Developer;Building+the+Future+of+Healthcare+Tech;Code+with+Precision%2C+Heal+with+Innovation" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Abdullah+Hisham;Backend+Engineer+%7C+TypeScript+%2B+Bun;Building+Fast%2C+Scalable+APIs;ElysiaJS+%7C+Redis+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG" />
 
-<div align="center" style="margin: 20px 0;">
-  <h3 style="color: #00D9FF; margin: 10px 0;">🩺 Bridging Medicine & Technology 💻</h3>
-  <p style="color: #c9d1d9; font-size: 18px; margin: 5px 0;"><em>"Where Healthcare Meets Innovation"</em></p>
-</div>
+<br/>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-hisham)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulahhisham15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdullah-hisham)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdullah-hisham&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/abdullah-hisham)
 
-<!-- Enhanced Profile Badges -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://komarev.com/ghpvc/?username=abdullah-hisham&label=Profile%20Visitors&color=00D9FF&style=for-the-badge&labelColor=1a1a2e" alt="Profile views" />
-  <img src="https://img.shields.io/badge/🎯_Focus-Full%20Stack%20Development-00D9FF?style=for-the-badge&labelColor=1a1a2e" alt="Focus" />
-  <img src="https://img.shields.io/badge/📚_Status-Medical%20Student-00D9FF?style=for-the-badge&labelColor=1a1a2e" alt="Status" />
-  <img src="https://img.shields.io/badge/💡_Passion-Innovation-00D9FF?style=for-the-badge&labelColor=1a1a2e" alt="Passion" />
 </div>
 
 ---
 
-<!-- Sophisticated About Section -->
-<table align="center" width="100%" style="border: none;">
-<tr>
-<td width="60%" valign="top">
-
-## 🧬 **Professional Profile**
-
-<div style="text-align: justify; line-height: 1.8; font-size: 16px; color: #c9d1d9;">
-
-**Dedicated medical student** with an exceptional aptitude for **modern web technologies**. My academic journey uniquely bridges the analytical rigor of medical sciences with the creative problem-solving inherent in software development.
-
-**Current Academic Focus:**
-- 🏥 Advanced medical coursework and clinical training
-- 📊 Evidence-based medicine and research methodologies  
-- 🧠 Human anatomy, physiology, and pathology
-
-**Technical Expertise:**
-- 💻 Full-stack web application development
-- 🏗️ Scalable system architecture and design
-- 🎨 Modern UI/UX implementation and optimization
-- 🔒 Security-first development practices
-
-</div>
-
-### 📋 **Quick Facts**
+## `$ whoami`
 
 ```typescript
 const abdullah = {
-  education: "Medical Student",
-  role: "Full-Stack Developer",
-  focus: ["Next.js", "Django", "Node.js", "React"],
-  architecture: ["Microservices", "JAMStack", "Serverless"],
-  currentlyLearning: ["Advanced React Patterns", "Cloud Architecture"],
-  philosophy: "Code with precision, heal with innovation"
-};
+  role      : "Backend Engineer",
+  stack     : ["TypeScript", "Bun", "ElysiaJS", "Node.js", "Express"],
+  databases : ["PostgreSQL", "MongoDB", "Redis"],
+  devops    : ["Docker", "Linux", "Git", "GitHub Actions"],
+  interests : ["API Design", "System Architecture", "Developer Tooling"],
+  edge      : "Medical school background — domain expertise in healthtech problems",
+  status    : "Open to backend & full-stack roles",
+} as const;
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0,217,255,0.3); max-width: 400px;" alt="Advanced Developer Animation" />
-
-### 🌟 **Core Values**
-<div style="text-align: left; margin-top: 20px;">
-
-**🎯 Precision**  
-*Medical training meets coding excellence*
-
-**🚀 Innovation**  
-*Pushing boundaries in both fields*
-
-**🔬 Analysis**  
-*Data-driven decision making*
-
-**💡 Creativity**  
-*Elegant solutions to complex problems*
-
-</div>
-
-</td>
-</tr>
-</table>
+I design and build **production-grade backend systems** — fast APIs, clean data models, and infrastructure that doesn't break at 3am. My background in medicine gives me a rare lens on the problems worth solving in healthtech.
 
 ---
 
-## 🌐 **Digital Ecosystem**
+## ⚡ Tech Stack
 
-<div align="center" style="margin: 40px 0;">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://linkedin.com/in/abdullah-hisham" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <br><em style="color: #8b949e;">Professional Network</em>
-      </td>
-      <td align="center" width="200">
-        <a href="mailto:abdulahhisham15@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-Direct%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <br><em style="color: #8b949e;">Direct Communication</em>
-      </td>
-      <td align="center" width="200">
-        <a href="https://github.com/abdullah-hisham" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Code%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <br><em style="color: #8b949e;">Open Source Contributions</em>
-      </td>
-    </tr>
-  </table>
-</div>
+### Core
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Backend Frameworks
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=flat-square&logo=elysia&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Frontend (when needed)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### API & Tooling
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## ⚡ **Technology Arsenal**
+## 📌 Featured Work
+
+> Real projects. Real problems solved.
+
+| Project | Stack | What it does |
+|---|---|---|
+| 🔗 **[medical-dashboard](https://github.com/abdullah-hisham/medical-dashboard)** | Next.js · TypeScript · PostgreSQL | Healthcare management system — patient records, scheduling, analytics |
+| 🔗 **[api-starter](https://github.com/abdullah-hisham/api-starter)** | Bun · ElysiaJS · Redis · Docker | Opinionated production-ready REST API boilerplate with auth, rate limiting, caching |
+| 🔗 **[portfolio](https://github.com/abdullah-hisham/portfolio)** | Next.js · TailwindCSS | Personal site & project showcase |
+
+*Update these links to your actual repos.*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🎨 **Frontend Mastery**
-<table align="center">
-<tr>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
-  <br><strong style="color: #61DAFB;">React</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Component Architecture</em>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
-  <br><strong style="color: #ffffff;">Next.js</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Full-Stack Framework</em>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript" />
-  <br><strong style="color: #3178C6;">TypeScript</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Type Safety</em>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
-  <br><strong style="color: #06B6D4;">Tailwind</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Utility-First CSS</em>
-</td>
-</tr>
-</table>
-
-### 🔧 **Backend Excellence**
-<table align="center">
-<tr>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
-  <br><strong style="color: #339933;">Node.js</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Runtime Environment</em>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django" />
-  <br><strong style="color: #0C4B33;">Django</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Python Framework</em>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
-  <br><strong style="color: #ffffff;">Express</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Web Framework</em>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" alt="NestJS" />
-  <br><strong style="color: #E0234E;">NestJS</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Scalable Framework</em>
-</td>
-</tr>
-</table>
-
-### 🗄️ **Data & Infrastructure**
-<table align="center">
-<tr>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
-  <br><strong style="color: #47A248;">MongoDB</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">NoSQL Database</em>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
-  <br><strong style="color: #4479A1;">MySQL</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Relational Database</em>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
-  <br><strong style="color: #2496ED;">Docker</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Containerization</em>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-  <br><strong style="color: #F05032;">Git</strong>
-  <br><em style="color: #8b949e; font-size: 12px;">Version Control</em>
-</td>
-</tr>
-</table>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdullah-hisham&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-hisham&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
-
----
-
-## 📊 **Performance Analytics**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=abdullah-hisham&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-hisham&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-hisham&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-hisham&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://streak-stats.demolab.com/?user=abdullah-hisham&theme=dark&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
 ---
 
-## 🏆 **Achievement Gallery**
+## 🐍 Contribution Activity
 
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullah-hisham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-hisham/abdullah-hisham/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullah-hisham/abdullah-hisham/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/abdullah-hisham/abdullah-hisham/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> **Setup:** Create `.github/workflows/snake.yml` in this repo — snippet below ↓
+
+<details>
+<summary><code>snake.yml</code> — click to expand</summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
-## 💼 **Featured Projects**
+## 🎯 Currently
+
+- 🔨 Building with **Bun + ElysiaJS** — exploring edge runtime performance limits
+- 📦 Deepening **Docker & container orchestration** for production deployments
+- 🧠 Studying **system design** at scale — caching strategies, DB indexing, message queues
+- 🩺 Medical studies — applying evidence-based thinking to software architecture decisions
+
+---
+
+## 💬 Engineering Principle
+
+> *Good systems are boring to operate. I optimize for that.*
+
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/abdullah-hisham">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-hisham&repo=portfolio-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF" alt="Portfolio Project" />
-        </a>
-        <br><em style="color: #8b949e;">Personal Portfolio & Blog</em>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/abdullah-hisham">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-hisham&repo=medical-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF" alt="Medical Dashboard" />
-        </a>
-        <br><em style="color: #8b949e;">Healthcare Management System</em>
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+**Open to backend roles, API consulting, and interesting problems.**
 
-## 🎯 **Current Objectives**
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-hisham)
+[![Email](https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulahhisham15@gmail.com)
 
-<div align="center">
-  <table style="border: 2px solid #00D9FF; border-radius: 10px; padding: 20px;">
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🔬-Medical%20Excellence-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
-        <br><br>
-        <strong style="color: #00D9FF;">Academic Mastery</strong>
-        <br><em style="color: #8b949e;">Advancing in medical studies<br>with consistent excellence</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/💻-Tech%20Innovation-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
-        <br><br>
-        <strong style="color: #00D9FF;">Technical Growth</strong>
-        <br><em style="color: #8b949e;">Mastering cutting-edge<br>development technologies</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🚀-Project%20Development-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
-        <br><br>
-        <strong style="color: #00D9FF;">Product Creation</strong>
-        <br><em style="color: #8b949e;">Building impactful<br>digital solutions</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🌟-Community%20Impact-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
-        <br><br>
-        <strong style="color: #00D9FF;">Knowledge Sharing</strong>
-        <br><em style="color: #8b949e;">Contributing to open source<br>and tech community</em>
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:0D1117&height=80&section=footer" width="100%" />
 
----
-
-## 📈 **Coding Activity**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-hisham&theme=tokyonight" alt="Profile Summary" />
-</div>
-
----
-
-<!-- Elegant Footer -->
-<div align="center" style="margin: 60px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3,5,15,27&height=200&section=footer&animation=twinkling" width="100%" />
-  
-  ### 🤝 **Let's Connect & Build Something Amazing Together!**
-  
-  <div style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/Open%20to-Collaborations-00D9FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborations" />
-    <img src="https://img.shields.io/badge/Always-Learning-00D9FF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Always Learning" />
-    <img src="https.md/img.shields.io/badge/Passion-Driven-00D9FF?style=for-the-badge&logo=heart&logoColor=white" alt="Passion Driven" />
-  </div>
-  
-  ---
-  <em>⭐ From [abdullah-hisham](https://github.com/abdullah-hisham) with ❤️</em>
 </div>
